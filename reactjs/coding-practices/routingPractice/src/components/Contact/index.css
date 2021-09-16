@@ -1,0 +1,15 @@
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-img {
+  height: 30vh;
+}
+
+.title {
+  color: #555555;
+  font-size: 40px;
+}

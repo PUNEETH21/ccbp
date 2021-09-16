@@ -1,0 +1,37 @@
+.result-container {
+  display: flex;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #9796f0;
+  color: #ffffff;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-status {
+  font-size: 40px;
+}
+
+.score-label {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.score-text {
+  font-weight: bold;
+  font-size: 40px;
+  color: #6a59ff;
+}
+
+.play-again-button {
+  padding: 15px;
+  background-color: #ffce27;
+  border-radius: 15px;
+  border-width: 0px;
+  font-weight: bold;
+}

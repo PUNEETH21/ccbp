@@ -1,0 +1,38 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  flex-grow: 1;
+}
+
+.text-container {
+  margin-left: 15px;
+  flex-grow: 1;
+}
+
+.heading {
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.icon {
+  font-size: 25px;
+}
+
+.success {
+  color: #2dca73;
+}
+
+.error {
+  color: #ff0b37;
+}
+
+.warning {
+  color: #ffb800;
+}
+
+.info {
+  color: #0f81e0;
+}

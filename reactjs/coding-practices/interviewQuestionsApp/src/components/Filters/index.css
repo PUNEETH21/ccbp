@@ -1,0 +1,16 @@
+.select-filters {
+  display: flex;
+}
+
+.select-options {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
+
+.select-item {
+  align-self: flex-start;
+  padding: 5px;
+  margin-top: 5px;
+  font-weight: 600;
+}

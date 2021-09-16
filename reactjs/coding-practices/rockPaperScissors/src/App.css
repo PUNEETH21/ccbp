@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #223a5f;
+  min-height: 100vh;
+  color: #ffffff;
+  /* font-family: 'Roboto'; */
+}
+
+.header-section {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin: 50px;
+}
+
+.choices-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.choice-item {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.score-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #223a5f;
+}
+
+.heading {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.score-title {
+  font-weight: bold;
+}
+
+.score-text {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 34px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.rules-card-container {
+  align-self: flex-end;
+}
+
+.pop-up-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rules-img {
+  height: 400px;
+  width: 500px;
+  margin: 50px;
+}
+
+.trigger-button {
+  align-self: flex-end;
+  font-weight: bold;
+  padding: 5px;
+  margin-right: 8px;
+  background-color: #ffffff;
+  border-radius: 3px;
+  border: none;
+}
+
+.choices-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 48%;
+  margin: 50px;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.choices-result-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  margin: 50px;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+  border: 2px solid grey;
+}
+
+.choice-item {
+  text-align: center;
+}
+
+.choice-btn {
+  background-color: #223a5f;
+  border: none;
+}
+
+.choice-img {
+  width: 220px;
+}
+/* 
+.space-container {
+  min-width: 570px;
+} */
+
+.play-again-btn {
+  background-color: #ffffff;
+  color: #223a5f;
+  font-weight: bold;
+  width: 180px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+.result-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  align-self: stretch;
+  /* width: 60%; */
+}
+
+.result-text {
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Roboto';
+}
+
+.player-text {
+  font-weight: bold;
+}

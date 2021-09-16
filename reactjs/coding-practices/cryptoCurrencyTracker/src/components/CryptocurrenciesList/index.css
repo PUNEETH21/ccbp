@@ -1,0 +1,33 @@
+.crypto-currencies-container {
+  text-align: center;
+}
+
+.crypto-currencies-image {
+  height: 250px;
+}
+
+.currencies-text-container {
+  border: 3px solid #00e7ff;
+  border-radius: 5px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: green;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.currency-type {
+  display: flex;
+}
+
+.currency-type-heading {
+  margin-left: 30px;
+}
+.crypto-currencies-list {
+  list-style-type: none;
+  padding-left: 30px;
+}

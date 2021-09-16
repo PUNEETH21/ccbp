@@ -1,0 +1,15 @@
+.home-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* align-self: stretch;
+  flex-grow: 1; */
+  min-height: 70vh;
+}
+
+.resume-btn {
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+}

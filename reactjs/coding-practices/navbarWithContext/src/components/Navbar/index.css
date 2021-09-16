@@ -1,0 +1,44 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+
+.dark-bg-navbar {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.sections {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.section-name {
+  font-weight: bold;
+  font-size: 20px;
+  padding-right: 30px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.light-text {
+  color: #ffffff;
+}
+
+.theme-btn {
+  background-color: transparent;
+  border-width: 0px;
+}

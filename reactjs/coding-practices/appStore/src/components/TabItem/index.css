@@ -1,0 +1,12 @@
+.tab-item {
+  list-style-type: none;
+}
+
+.tab-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.active-tab-btn {
+  border-bottom: 1px solid blue;
+}

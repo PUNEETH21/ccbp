@@ -1,0 +1,26 @@
+.navbar-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background-color: #9796f0;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navbar-left-section {
+  display: flex;
+  justify-content: flex-start;
+  /* align-items: center; */
+}
+
+.navbar-right-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score {
+  margin-right: 50px;
+  font-size: 22px;
+}

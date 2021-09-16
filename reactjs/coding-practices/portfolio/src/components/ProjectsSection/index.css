@@ -1,0 +1,21 @@
+.heading {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.projects-items {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-icon {
+  height: 160px;
+  width: 400px;
+}
+
+.project {
+  text-align: center;
+  margin-right: 40px;
+}

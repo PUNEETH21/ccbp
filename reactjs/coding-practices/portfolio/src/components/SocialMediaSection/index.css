@@ -1,0 +1,14 @@
+.social-media-section {
+  background-color: #ec4899;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.app-img {
+  margin-right: 20px;
+}

@@ -1,0 +1,36 @@
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.logo-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-img {
+  height: 30px;
+}
+
+.logo-title {
+  margin-left: 10px;
+}
+
+.options-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-item {
+  margin-left: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  list-style-type: none;
+  color: #6d396b;
+  text-decoration: none;
+}

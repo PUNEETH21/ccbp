@@ -1,0 +1,23 @@
+/* .blog-container {
+  width: 100%;
+  border: 4px solid grey;
+} */
+
+.blog-top-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.published-date {
+  font-size: 30px;
+  color: #9aa5b1;
+  font-weight: bold;
+}
+
+.description {
+  color: #9aa5b1;
+  font-weight: bold;
+  font-size: 20px;
+}

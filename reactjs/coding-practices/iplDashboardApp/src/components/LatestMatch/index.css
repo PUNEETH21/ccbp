@@ -1,0 +1,16 @@
+.latest-match-container {
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.latest-match-header-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.competing-team-logo {
+  height: 150px;
+}

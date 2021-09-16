@@ -1,0 +1,60 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.comments-input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.add-btn {
+  background-color: #0284c7;
+  border-width: 0px;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 8px;
+}
+
+.line {
+  width: 90%;
+}
+
+.comments-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  width: 90%;
+}
+
+.comments-count-section {
+  width: 90%;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.comments-count-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0284c7;
+  margin-right: 10px;
+  color: #ffffff;
+  height: 30px;
+  width: 30px;
+}

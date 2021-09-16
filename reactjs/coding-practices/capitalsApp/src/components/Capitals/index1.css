@@ -1,0 +1,48 @@
+.bg-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 50px;
+}
+
+.text-container {
+  display: flex;
+}
+
+.input-container {
+  display: flex;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.input {
+  border: none;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
+
+.list-items-container {
+  padding: 10px;
+  margin-top: -10px;
+}
+
+.list-item {
+  list-style-type: none;
+}
+
+.item-button {
+  background-color: transparent;
+  border: none;
+}

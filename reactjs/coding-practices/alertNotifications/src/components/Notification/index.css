@@ -1,0 +1,13 @@
+.notification-container {
+  width: 60%;
+  padding: 20px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.close-icon {
+  align-self: center;
+  font-size: 25px;
+}

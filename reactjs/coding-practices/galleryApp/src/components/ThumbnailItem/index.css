@@ -1,0 +1,14 @@
+.list-item {
+  list-style-type: none;
+  margin-right: 5px;
+  opacity: 0.5;
+}
+
+.active-img {
+  opacity: 1;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}

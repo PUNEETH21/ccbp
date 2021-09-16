@@ -1,0 +1,41 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  width: 45%;
+}
+
+.image {
+  width: 150px;
+}
+
+.image-container {
+  text-align: right;
+}
+
+.heading {
+  color: #171f46;
+}
+
+.description {
+  color: #00a8e7;
+}

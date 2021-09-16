@@ -1,0 +1,28 @@
+.currency-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.currency-list-type {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding-right: 30px;
+  /* border: 4px solid grey; */
+}
+
+.currency-type-img {
+  height: 40px;
+  /* margin-right: 20px; */
+}
+
+.value {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.space {
+  margin-left: 20px;
+}

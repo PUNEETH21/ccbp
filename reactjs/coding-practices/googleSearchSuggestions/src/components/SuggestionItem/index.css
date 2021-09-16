@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow {
+  height: 20px;
+}
+
+.arrow-button {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+}

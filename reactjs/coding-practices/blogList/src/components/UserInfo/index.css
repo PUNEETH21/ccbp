@@ -1,0 +1,16 @@
+.user-info-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-img {
+  width: 150px;
+}
+
+.role {
+  font-size: 30px;
+  color: #616e7c;
+  font-weight: bold;
+}

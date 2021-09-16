@@ -1,0 +1,40 @@
+.product-item-section {
+  margin-right: 60px;
+}
+
+.product-item-img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.similar-product-title {
+  font-weight: bold;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.similar-product-brand {
+  color: #616e7c;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.product-rating-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #3b82f6;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  height: 30px;
+}
+
+.reviews-and-ratings-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}

@@ -1,0 +1,27 @@
+.portfolio-container {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/portfolio-lg-bg.png');
+  min-height: 100vh;
+}
+
+.portfolio-body {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: column; */
+  align-items: flex-start;
+  width: 100%;
+}
+
+.active-section {
+  background-color: #ec4899;
+  border-radius: 10px;
+  padding: 30px;
+  height: 80vh;
+  flex-grow: 1;
+  width: 100%;
+  flex-wrap: wrap;
+}

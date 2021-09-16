@@ -1,0 +1,14 @@
+.not-found-container {
+  background-color: black;
+  min-height: 100vh;
+  border-top: 1px solid transparent;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

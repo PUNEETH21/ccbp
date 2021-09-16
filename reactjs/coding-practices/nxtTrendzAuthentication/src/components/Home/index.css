@@ -1,0 +1,28 @@
+.home-container {
+  font-family: 'Roboto';
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-text-container {
+  width: 46%;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; */
+  /* border: 4px solid grey; */
+}
+
+.home-heading {
+  font-size: 50px;
+}
+
+.description {
+  font-size: 20px;
+  color: #64748b;
+}
+
+.home-img {
+}

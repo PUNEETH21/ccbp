@@ -1,0 +1,27 @@
+.appointment-container {
+  border-radius: 8px;
+  border: 1px solid black;
+  padding: 8px;
+  width: 30%;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.title-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appointment-title {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.favorite-btn {
+  background-color: transparent;
+  border: none;
+}

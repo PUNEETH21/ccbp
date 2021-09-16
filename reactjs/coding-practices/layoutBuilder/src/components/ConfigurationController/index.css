@@ -1,0 +1,14 @@
+.configuration-container {
+  background-color: #475569;
+  color: #ffffff;
+  padding: 5px;
+  padding-left: 100px;
+}
+
+.checkbox-container {
+  padding-bottom: 5px;
+}
+
+label {
+  padding-left: 4px;
+}

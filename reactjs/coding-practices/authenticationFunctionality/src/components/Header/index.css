@@ -1,0 +1,11 @@
+.headers-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto';
+}
+
+.list-item {
+  margin-right: 20px;
+  font-size: 30px;
+}
