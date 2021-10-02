@@ -1,0 +1,12 @@
+.player-container {
+  min-width: 100%;
+  /* border: 2px solid grey; */
+}
+
+@media (min-width: 992px) {
+  .player-container {
+    min-height: 500px;
+    max-height: 100%;
+    /* border: 2px solid yellow; */
+  }
+}
